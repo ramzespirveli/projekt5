@@ -1,0 +1,106 @@
+/* navigaciis ganyofileba*/
+.nav-clas{
+	margin-top: 17px;
+	margin-bottom: 36px;
+}
+.logo-clas {
+	vertical-align: middle;
+	margin: 17px 91px 14px 20px;
+}
+.ul-clas {
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Roboto';
+}
+.li-clas {
+   display: inline-block;
+   margin-right: 21px;
+}
+.admin {
+	width: 31px;
+	right: 31px;
+	vertical-align: middle;
+}
+/*orive seqciistvis gamoiyeneba erti saerto konteineri*/
+.conteiner {
+	width: 1160px;
+	margin: 0 auto;
+	}
+.mini-bloki {
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	background: #F8F8F8;
+
+}
+/*suratze carceris gantavseba*/
+.absolut-1 {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+}
+.absolut-2 {
+	position: absolute;
+	right: 22px;
+	bottom: 17px;
+	color: #fff;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+}
+/*par. tegeze zomebis, fontebis minicheba*/
+.paragraf-1 {
+	width: 224px;
+	margin: 76px 97px 67px 40px;
+	font-family: 'Beau Rivage';
+	font-size: 36px;
+}
+.satauri {
+	margin-bottom: 31px;
+	margin-top: 36px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 42;
+   text-transform: uppercase;
+
+}
+.clasblok-2 {
+	margin-left: 38px;
+	margin-right: 38px;
+}
+.sect-2-blooki {
+	width: 761px;
+	height: 431px;
+	display: inline-block;
+	position: relative;
+}
+.dashoreba {
+	margin-top: 39px;
+}
+/*meore seqciashi ori divis gverdigver inline blokis gacera*/
+.conteiner-2 {
+	width: 761px;
+	display: inline-block;
+
+}
+.conteiner-3 {
+	width: 361px;
+	display: inline-block;
+	margin-left: 29px;
+	vertical-align: top;
+}
+.left-img {
+	margin-bottom: 101px;
+}
+.absolut-3 {
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+}
+.relativ-1{
+	display: inline-block;
+	position: relative;
+
+}
